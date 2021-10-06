@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/pratap/test/contracts/Tests.sol": {
-      "lastModificationDate": 1633450249875,
-      "contentHash": "a59e365e16a51d31d127fbd280af27f2",
+      "lastModificationDate": 1633511700329,
+      "contentHash": "b66155c6f4558601c70d6f350f8eea64",
       "sourceName": "contracts/Tests.sol",
       "solcConfig": {
         "version": "0.8.9",
@@ -33,7 +33,7 @@
       ],
       "artifacts": [
         "SafeMath",
-        "Test"
+        "Tests"
       ]
     }
   }

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
-contract Test {
+contract Tests {
 
     string public constant name = "Test";
     string public constant symbol = "TT";
